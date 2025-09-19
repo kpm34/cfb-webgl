@@ -1,0 +1,39 @@
+{
+  "name": "L&N FCU Stadium (Louisville)",
+  "references": [
+    "https://gocards.com/sports/2020/6/2/facilities-cfb-alumaworks.aspx",
+    "https://en.wikipedia.org/wiki/L%26N_Federal_Credit_Union_Stadium"
+  ],
+  "field": {
+    "orientation": "north-south",
+    "turf": "artificial",
+    "endzone_text": ["LOUISVILLE", "CARDINALS"],
+    "midfield_logo": "Cardinal head"
+  },
+  "bowl": {
+    "type": "open horseshoe",
+    "lower_bowl_depth": "medium",
+    "upper_deck_presence": true,
+    "open_endzone": "south",
+    "exterior_style": "modern brick/metal mix"
+  },
+  "colors": {
+    "primary": "#AD0000",
+    "secondary": "#000000",
+    "accent": "#FFFFFF"
+  },
+  "ads": {
+    "board_aspect": "4:3",
+    "panel_count": 5
+  },
+  "export": {
+    "camera_fov": 35,
+    "camera_height": 1.7,
+    "camera_dist": 42,
+    "texture_max": 2048,
+    "hide_audience": true,
+    "hide_upper_deck": true,
+    "hide_exterior": true,
+    "keep_lower_bowl": true
+  }
+}
